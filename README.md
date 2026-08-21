@@ -31,19 +31,26 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/akshay-phulwani/problem_solving/tree/master/0523-continuous-subarray-sum) |
+| [0930-binary-subarrays-with-sum](https://github.com/akshay-phulwani/problem_solving/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/akshay-phulwani/problem_solving/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/akshay-phulwani/problem_solving/tree/master/0523-continuous-subarray-sum) |
+| [0930-binary-subarrays-with-sum](https://github.com/akshay-phulwani/problem_solving/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/akshay-phulwani/problem_solving/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/akshay-phulwani/problem_solving/tree/master/0523-continuous-subarray-sum) |
+| [0930-binary-subarrays-with-sum](https://github.com/akshay-phulwani/problem_solving/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/akshay-phulwani/problem_solving/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Pigeonhole Principle
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/akshay-phulwani/problem_solving/tree/master/0523-continuous-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/akshay-phulwani/problem_solving/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
