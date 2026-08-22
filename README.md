@@ -30,6 +30,7 @@
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/akshay-phulwani/problem_solving/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/akshay-phulwani/problem_solving/tree/master/0523-continuous-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/akshay-phulwani/problem_solving/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/akshay-phulwani/problem_solving/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -43,6 +44,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/akshay-phulwani/problem_solving/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/akshay-phulwani/problem_solving/tree/master/0523-continuous-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/akshay-phulwani/problem_solving/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/akshay-phulwani/problem_solving/tree/master/0974-subarray-sums-divisible-by-k) |
