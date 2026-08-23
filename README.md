@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/akshay-phulwani/problem_solving/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/akshay-phulwani/problem_solving/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/akshay-phulwani/problem_solving/tree/master/0523-continuous-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/akshay-phulwani/problem_solving/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/akshay-phulwani/problem_solving/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/akshay-phulwani/problem_solving/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/akshay-phulwani/problem_solving/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/akshay-phulwani/problem_solving/tree/master/0523-continuous-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/akshay-phulwani/problem_solving/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/akshay-phulwani/problem_solving/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -75,4 +77,8 @@
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/akshay-phulwani/problem_solving/tree/master/1927-sum-game) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/akshay-phulwani/problem_solving/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
