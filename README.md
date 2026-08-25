@@ -23,6 +23,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/akshay-phulwani/problem_solving/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/akshay-phulwani/problem_solving/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/akshay-phulwani/problem_solving/tree/master/0509-fibonacci-number) |
 | [1872-stone-game-viii](https://github.com/akshay-phulwani/problem_solving/tree/master/1872-stone-game-viii) |
@@ -74,6 +75,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/akshay-phulwani/problem_solving/tree/master/0005-longest-palindromic-substring) |
 | [1927-sum-game](https://github.com/akshay-phulwani/problem_solving/tree/master/1927-sum-game) |
 ## Greedy
 |  |
@@ -96,4 +98,12 @@
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/akshay-phulwani/problem_solving/tree/master/1872-stone-game-viii) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/akshay-phulwani/problem_solving/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/akshay-phulwani/problem_solving/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
