@@ -43,6 +43,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/akshay-phulwani/problem_solving/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1314-matrix-block-sum](https://github.com/akshay-phulwani/problem_solving/tree/master/1314-matrix-block-sum) |
 | [1872-stone-game-viii](https://github.com/akshay-phulwani/problem_solving/tree/master/1872-stone-game-viii) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/akshay-phulwani/problem_solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/akshay-phulwani/problem_solving/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/akshay-phulwani/problem_solving/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/akshay-phulwani/problem_solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Game Theory
 |  |
 | ------- |
