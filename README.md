@@ -53,6 +53,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/akshay-phulwani/problem_solving/tree/master/0187-repeated-dna-sequences) |
 | [0523-continuous-subarray-sum](https://github.com/akshay-phulwani/problem_solving/tree/master/0523-continuous-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/akshay-phulwani/problem_solving/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/akshay-phulwani/problem_solving/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -75,6 +76,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/akshay-phulwani/problem_solving/tree/master/0187-repeated-dna-sequences) |
 | [0930-binary-subarrays-with-sum](https://github.com/akshay-phulwani/problem_solving/tree/master/0930-binary-subarrays-with-sum) |
 ## Matrix
 |  |
@@ -85,6 +87,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akshay-phulwani/problem_solving/tree/master/0005-longest-palindromic-substring) |
+| [0187-repeated-dna-sequences](https://github.com/akshay-phulwani/problem_solving/tree/master/0187-repeated-dna-sequences) |
 | [1927-sum-game](https://github.com/akshay-phulwani/problem_solving/tree/master/1927-sum-game) |
 ## Greedy
 |  |
@@ -117,4 +120,24 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akshay-phulwani/problem_solving/tree/master/0005-longest-palindromic-substring) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/akshay-phulwani/problem_solving/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/akshay-phulwani/problem_solving/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/akshay-phulwani/problem_solving/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/akshay-phulwani/problem_solving/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/akshay-phulwani/problem_solving/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
