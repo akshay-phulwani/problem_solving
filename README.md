@@ -90,6 +90,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akshay-phulwani/problem_solving/tree/master/0005-longest-palindromic-substring) |
 | [0187-repeated-dna-sequences](https://github.com/akshay-phulwani/problem_solving/tree/master/0187-repeated-dna-sequences) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akshay-phulwani/problem_solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1927-sum-game](https://github.com/akshay-phulwani/problem_solving/tree/master/1927-sum-game) |
 ## Greedy
 |  |
@@ -154,4 +155,8 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/akshay-phulwani/problem_solving/tree/master/0918-maximum-sum-circular-subarray) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akshay-phulwani/problem_solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
