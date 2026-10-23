@@ -6,6 +6,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/akshay-phulwani/problem_solving/tree/master/0002-add-two-numbers) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/akshay-phulwani/problem_solving/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2487-remove-nodes-from-linked-list](https://github.com/akshay-phulwani/problem_solving/tree/master/2487-remove-nodes-from-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/akshay-phulwani/problem_solving/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/akshay-phulwani/problem_solving/tree/master/0509-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/akshay-phulwani/problem_solving/tree/master/2487-remove-nodes-from-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -159,4 +161,9 @@
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akshay-phulwani/problem_solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/akshay-phulwani/problem_solving/tree/master/2487-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/akshay-phulwani/problem_solving/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
