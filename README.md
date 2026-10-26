@@ -52,6 +52,7 @@
 | [1314-matrix-block-sum](https://github.com/akshay-phulwani/problem_solving/tree/master/1314-matrix-block-sum) |
 | [1872-stone-game-viii](https://github.com/akshay-phulwani/problem_solving/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/akshay-phulwani/problem_solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/akshay-phulwani/problem_solving/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/akshay-phulwani/problem_solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/akshay-phulwani/problem_solving/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -87,6 +88,7 @@
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/akshay-phulwani/problem_solving/tree/master/0304-range-sum-query-2d-immutable) |
 | [1314-matrix-block-sum](https://github.com/akshay-phulwani/problem_solving/tree/master/1314-matrix-block-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/akshay-phulwani/problem_solving/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -168,4 +170,16 @@
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/akshay-phulwani/problem_solving/tree/master/2487-remove-nodes-from-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/akshay-phulwani/problem_solving/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/akshay-phulwani/problem_solving/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Union-Find
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/akshay-phulwani/problem_solving/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
