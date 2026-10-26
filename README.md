@@ -107,6 +107,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/akshay-phulwani/problem_solving/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/akshay-phulwani/problem_solving/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/akshay-phulwani/problem_solving/tree/master/0304-range-sum-query-2d-immutable) |
 ## Minimax
@@ -160,6 +161,7 @@
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/akshay-phulwani/problem_solving/tree/master/0155-min-stack) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akshay-phulwani/problem_solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/akshay-phulwani/problem_solving/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
