@@ -45,6 +45,7 @@
 | [0238-product-of-array-except-self](https://github.com/akshay-phulwani/problem_solving/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/akshay-phulwani/problem_solving/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/akshay-phulwani/problem_solving/tree/master/0304-range-sum-query-2d-immutable) |
+| [0496-next-greater-element-i](https://github.com/akshay-phulwani/problem_solving/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/akshay-phulwani/problem_solving/tree/master/0523-continuous-subarray-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/akshay-phulwani/problem_solving/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/akshay-phulwani/problem_solving/tree/master/0930-binary-subarrays-with-sum) |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/akshay-phulwani/problem_solving/tree/master/0187-repeated-dna-sequences) |
+| [0496-next-greater-element-i](https://github.com/akshay-phulwani/problem_solving/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/akshay-phulwani/problem_solving/tree/master/0523-continuous-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/akshay-phulwani/problem_solving/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/akshay-phulwani/problem_solving/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -164,11 +166,13 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/akshay-phulwani/problem_solving/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/akshay-phulwani/problem_solving/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akshay-phulwani/problem_solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/akshay-phulwani/problem_solving/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/akshay-phulwani/problem_solving/tree/master/0496-next-greater-element-i) |
 | [2487-remove-nodes-from-linked-list](https://github.com/akshay-phulwani/problem_solving/tree/master/2487-remove-nodes-from-linked-list) |
 ## Depth-First Search
 |  |
