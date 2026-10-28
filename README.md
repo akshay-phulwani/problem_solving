@@ -114,6 +114,7 @@
 | [0155-min-stack](https://github.com/akshay-phulwani/problem_solving/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/akshay-phulwani/problem_solving/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/akshay-phulwani/problem_solving/tree/master/0304-range-sum-query-2d-immutable) |
+| [0901-online-stock-span](https://github.com/akshay-phulwani/problem_solving/tree/master/0901-online-stock-span) |
 ## Minimax
 |  |
 | ------- |
@@ -167,12 +168,14 @@
 | ------- |
 | [0155-min-stack](https://github.com/akshay-phulwani/problem_solving/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/akshay-phulwani/problem_solving/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/akshay-phulwani/problem_solving/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akshay-phulwani/problem_solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/akshay-phulwani/problem_solving/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/akshay-phulwani/problem_solving/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/akshay-phulwani/problem_solving/tree/master/0901-online-stock-span) |
 | [2487-remove-nodes-from-linked-list](https://github.com/akshay-phulwani/problem_solving/tree/master/2487-remove-nodes-from-linked-list) |
 ## Depth-First Search
 |  |
@@ -186,4 +189,8 @@
 |  |
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/akshay-phulwani/problem_solving/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/akshay-phulwani/problem_solving/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
