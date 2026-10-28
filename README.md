@@ -34,6 +34,7 @@
 | [0509-fibonacci-number](https://github.com/akshay-phulwani/problem_solving/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/akshay-phulwani/problem_solving/tree/master/0918-maximum-sum-circular-subarray) |
 | [1872-stone-game-viii](https://github.com/akshay-phulwani/problem_solving/tree/master/1872-stone-game-viii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/akshay-phulwani/problem_solving/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Memoization
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/akshay-phulwani/problem_solving/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/akshay-phulwani/problem_solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/akshay-phulwani/problem_solving/tree/master/3875-construct-uniform-parity-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/akshay-phulwani/problem_solving/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +93,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/akshay-phulwani/problem_solving/tree/master/0304-range-sum-query-2d-immutable) |
 | [1314-matrix-block-sum](https://github.com/akshay-phulwani/problem_solving/tree/master/1314-matrix-block-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/akshay-phulwani/problem_solving/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/akshay-phulwani/problem_solving/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## String
 |  |
 | ------- |
@@ -135,6 +138,7 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/akshay-phulwani/problem_solving/tree/master/0187-repeated-dna-sequences) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/akshay-phulwani/problem_solving/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Rolling Hash
 |  |
 | ------- |
