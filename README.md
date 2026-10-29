@@ -56,6 +56,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/akshay-phulwani/problem_solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/akshay-phulwani/problem_solving/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/akshay-phulwani/problem_solving/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/akshay-phulwani/problem_solving/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/akshay-phulwani/problem_solving/tree/master/3875-construct-uniform-parity-array-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/akshay-phulwani/problem_solving/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
@@ -101,6 +102,7 @@
 | [0187-repeated-dna-sequences](https://github.com/akshay-phulwani/problem_solving/tree/master/0187-repeated-dna-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akshay-phulwani/problem_solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1927-sum-game](https://github.com/akshay-phulwani/problem_solving/tree/master/1927-sum-game) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/akshay-phulwani/problem_solving/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -138,6 +140,7 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/akshay-phulwani/problem_solving/tree/master/0187-repeated-dna-sequences) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/akshay-phulwani/problem_solving/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/akshay-phulwani/problem_solving/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Rolling Hash
 |  |
@@ -159,6 +162,7 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/akshay-phulwani/problem_solving/tree/master/0918-maximum-sum-circular-subarray) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/akshay-phulwani/problem_solving/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Queue
 |  |
 | ------- |
@@ -185,6 +189,7 @@
 |  |
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/akshay-phulwani/problem_solving/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/akshay-phulwani/problem_solving/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -197,4 +202,16 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/akshay-phulwani/problem_solving/tree/master/0901-online-stock-span) |
+## Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/akshay-phulwani/problem_solving/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/akshay-phulwani/problem_solving/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/akshay-phulwani/problem_solving/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
