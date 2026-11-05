@@ -58,6 +58,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/akshay-phulwani/problem_solving/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/akshay-phulwani/problem_solving/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1314-matrix-block-sum](https://github.com/akshay-phulwani/problem_solving/tree/master/1314-matrix-block-sum) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/akshay-phulwani/problem_solving/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1872-stone-game-viii](https://github.com/akshay-phulwani/problem_solving/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/akshay-phulwani/problem_solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/akshay-phulwani/problem_solving/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -142,6 +143,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akshay-phulwani/problem_solving/tree/master/0005-longest-palindromic-substring) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/akshay-phulwani/problem_solving/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Manacher
 |  |
 | ------- |
@@ -240,4 +242,9 @@
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/akshay-phulwani/problem_solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/akshay-phulwani/problem_solving/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/akshay-phulwani/problem_solving/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
